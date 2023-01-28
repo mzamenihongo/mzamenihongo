@@ -1,4 +1,7 @@
-### Hi there 👋
+### こんにちは、私学生です。 👋
+私マデリンです。
+
+
 
 <!--
 **mzamenihongo/mzamenihongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
